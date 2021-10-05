@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Amazon increase income 1.5 Million
+title: Oiiiiiii
 date: 2017-05-26T10:05:55.000+03:00
 image: "/assets/images/blog/post-2.jpg"
 author: uixgeek
