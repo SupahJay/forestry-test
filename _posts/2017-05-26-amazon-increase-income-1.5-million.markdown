@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Oiiiiiii
-date: 2017-05-26T10:05:55.000+03:00
+date: 2017-05-26 07:05:55 +0000
 image: "/assets/images/blog/post-2.jpg"
 author: uixgeek
 tags: []
